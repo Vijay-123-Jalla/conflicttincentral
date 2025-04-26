@@ -1,1 +1,2 @@
 System.out.println("File from child");
+System.out.println("Checking conflict");
